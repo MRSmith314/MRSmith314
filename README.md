@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MRSmith314
-- 👀 I’m interested in ... Data Aanlayis for aerospace and astronomy, social sciences, business and many other industries.
+- 👋 Hi, I’m @MRSmith314 a Data Analyst working primarily in Excel, Python and Tableau.
+- 👀 I’m interested in ... Data Analyis for aerospace and astronomy, social sciences, business and many other industries.
 - 🌱 I recently ... completed the Data Analytics Bootcamp at the University of Denver.
 - 💞️ I enjoy ... working with Excel, SQL, Python, PyCharm, Jupyter Notebook and Tableau.
 - 📫 How to reach me ... connect with me on LinkedIn https://www.linkedin.com/in/michelle-r-smith-4a88999b/
